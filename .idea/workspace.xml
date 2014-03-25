@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38746b0a-7fcb-4e16-b49d-c6ead746ec65" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="38746b0a-7fcb-4e16-b49d-c6ead746ec65" name="Default" comment="" />
     <ignored path="aboutme.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="628" column="39" selection-start="31214" selection-end="31214" vertical-scroll-proportion="0.33544305" vertical-offset="9314" max-vertical-offset="12675">
+            <state line="625" column="38" selection-start="31087" selection-end="31087" vertical-scroll-proportion="27.252907" vertical-offset="0" max-vertical-offset="12675">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -653,7 +651,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="628" column="39" selection-start="31214" selection-end="31214" vertical-scroll-proportion="0.33544305" vertical-offset="9314" max-vertical-offset="12675">
+        <state line="625" column="38" selection-start="31087" selection-end="31087" vertical-scroll-proportion="27.252907" vertical-offset="0" max-vertical-offset="12675">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
