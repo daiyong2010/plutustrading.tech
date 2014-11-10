@@ -1,12 +1,4 @@
-/*----------------------------------------------------
- * Copyright 2014 Martin Kucharik
- * http://www.pixelized.cz
- * bootstrap-brands.js
- *
- * Version 1.0
- * Released: 5.2.2014
- * http://creativecommons.org/licenses/by/3.0/
-----------------------------------------------------*/
+
 
 $(document).ready(function() {
 	if($(window).width() > 767) {

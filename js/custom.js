@@ -1,10 +1,3 @@
-/*------------------------------
- * Copyright 2014 Pixelized
- * http://www.pixelized.cz
- *
- * Freelancer theme v1.0
-------------------------------*/
-
 $(window).scroll(function(){
 	if($(window).scrollTop() > 600) {
 		$('.navbar-default').fadeIn(300);
